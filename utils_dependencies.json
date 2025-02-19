@@ -1,0 +1,52 @@
+{
+    "file": {
+        "file_name": "utils",
+        "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\utils.py"
+    },
+    "dependencies": [
+        {
+            "file_name": "environment",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\environment.py"
+        },
+        {
+            "file_name": "graph",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\graph.py"
+        },
+        {
+            "file_name": "output",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\output.py"
+        },
+        {
+            "file_name": "parsepy",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\parsepy.py"
+        },
+        {
+            "file_name": "resolve",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\importlab\\resolve.py"
+        },
+        {
+            "file_name": "test_fs",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_fs.py"
+        },
+        {
+            "file_name": "test_graph",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_graph.py"
+        },
+        {
+            "file_name": "test_output",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_output.py"
+        },
+        {
+            "file_name": "test_parsepy",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_parsepy.py"
+        },
+        {
+            "file_name": "test_resolve",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_resolve.py"
+        },
+        {
+            "file_name": "test_utils",
+            "file_path": "C:\\Users\\LENOVO\\Desktop\\flask_app_for_dep\\flask_app_for_dep_checker\\test\\importlab\\tests\\test_utils.py"
+        }
+    ]
+}
