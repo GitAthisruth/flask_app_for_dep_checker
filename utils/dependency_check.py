@@ -30,9 +30,10 @@ def dependency_check(file_to_check ,folder_path):
     dependencies = [
     {"file_name": item["file_name"], "file_path": item["file_path"]}
     for item in all_file_path if item["file_name"] in imp_list]
-    imp_list_json = json.dumps({"file": file_to_check_info,"dependencies": dependencies}, indent=4)
+    imp_list_json = json.dumps({"file_to_check": file_to_check_info,"dependencies": dependencies}, indent=4)
     with open(f"{file_to_check}_dependencies.json", "w") as outfile:
         outfile.write(imp_list_json)
+    print(f"imp_list_json:{imp_list_json}")
     return imp_list_json
 
 
