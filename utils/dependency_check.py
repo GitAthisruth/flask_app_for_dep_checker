@@ -33,7 +33,6 @@ def dependency_check(file_to_check ,folder_path):
     imp_list_json = json.dumps({"file_to_check": file_to_check_info,"dependencies": dependencies}, indent=4)
     with open(f"{file_to_check}_dependencies.json", "w") as outfile:
         outfile.write(imp_list_json)
-    print(f"imp_list_json:{imp_list_json}")
     return imp_list_json
 
 
